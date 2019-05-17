@@ -1,0 +1,59 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Assistant&display=swap');
+
+body {
+    direction: rtl;
+    background-image: url('../images/BG.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#container { 
+margin: 0 auto;
+width: 960px;
+text-align: center;
+}
+
+#article {
+    line-height: 1.5;
+}
+
+
+#form {
+    margin: 20px 90px 20px 90px;
+    padding: 20px 90px 90px 20px;
+    position: absolute;
+    bottom: 31px;
+    font-family: 'Assistant', sans-serif;
+}
+
+h1 {
+    font-size: 45px;
+    color: #0E1680;
+    margin: 30px 90px 30px 90px;
+    padding: 60px 50px 10px 50px;
+    font-family: 'Assistant', sans-serif;
+}
+
+
+p {
+    font-size: 24px;
+    margin: 27px 10px 18px 10px;
+    font-family: 'Assistant', sans-serif;
+}
+
+h2 {
+    font-size: 35px;
+    font-family: 'Assistant', sans-serif;
+}
+
+a {
+    background-image: url(../images/50-logo-HIT.gif);
+    background-size: contain;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 0px 0px 10px 10px;
+    margin: 3px 10px 10px 10px;
+    background-repeat: no-repeat;
+}
