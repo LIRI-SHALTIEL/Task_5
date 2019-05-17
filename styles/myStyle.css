@@ -8,10 +8,11 @@ body {
 }
 
 
-#container { 
-margin: 0 auto;
-width: 960px;
-text-align: center;
+#container {
+    margin: 0 auto;
+    width: 960px;
+    text-align: center;
+    position:relative;
 }
 
 #article {
@@ -23,7 +24,7 @@ text-align: center;
     margin: 20px 90px 20px 90px;
     padding: 20px 90px 90px 20px;
     position: absolute;
-    bottom: 31px;
+    bottom: -100px;
     font-family: 'Assistant', sans-serif;
 }
 
